@@ -29,7 +29,13 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
+Pecunia is a budget management application designed to enable users to track and manager their personal finances in a simple and flexible way.
+
+By enabling advanced customization of expenses categories. It aims to offer a tailor-made approach adapted for specific needs.
+Unlike traditional banking applications or budget app that require you to link your bank accounts,
+Pecunia allows users to management EVERYTHING by manually entering all their transactions.
+
+This approach enables complete personalization and greater control over your personal finances.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
