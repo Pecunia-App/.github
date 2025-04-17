@@ -82,13 +82,15 @@ Add notes about how to use the system.
 Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [MySql](https://www.mysql.com/) - Database
+- [MySQL](https://www.mysql.com/) - Database
 - [SringBoot](https://spring.io/projects/spring-boot) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Angular](https://angular.dev/) - Web Framework
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@Alexia](https://github.com/AlexiaGu)
+- [@Daniel](https://github.com/danielgonzalez0)
+- [@Lenny](https://github.com/lenny-zanotelli)
+- [@Thomas](https://github.com/Thomas-Lunardo) 
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
