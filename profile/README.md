@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://ibb.co/MyDQDRpf" alt="Pecunia logo"></a>
-</p>
-
 <h3 align="center">Pecunia - Budget App</h3>
 
 <div align="center">
