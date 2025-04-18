@@ -1,17 +1,3 @@
-<!--toc:start-->
-- [📝 Table of Contents](#📝-table-of-contents)
-- [🧐 About <a name = "about"></a>](#🧐-about-a-name-abouta)
-- [📓 Guidelines](#📓-guidelines)
-  - [Git Branch Strategy](#git-branch-strategy)
-  - [📌 Naming Conventions](#📌-naming-conventions)
-    - [🔷 Examples](#🔷-examples)
-    - [🔄 Workflow](#🔄-workflow)
-      - [1. Main Branch](#1-main-branch)
-- [⛏️ Built Using <a name = "built_using"></a>](#️-built-using-a-name-builtusinga)
-- [✍️ Authors <a name = "authors"></a>](#️-authors-a-name-authorsa)
-- [🎉 Acknowledgements <a name = "acknowledgement"></a>](#🎉-acknowledgements-a-name-acknowledgementa)
-<!--toc:end-->
-
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://ibb.co/MyDQDRpf" alt="Pecunia logo"></a>
