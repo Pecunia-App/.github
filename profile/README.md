@@ -116,10 +116,10 @@ docs(readme): update installation guide
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@Alexia](https://github.com/AlexiaGu)
-- [@Daniel](https://github.com/danielgonzalez0)
-- [@Lenny](https://github.com/lenny-zanotelli)
-- [@Thomas](https://github.com/Thomas-Lunardo)
+- [@Alexia](https://github.com/AlexiaGu) - Fullstack Developper
+- [@Daniel](https://github.com/danielgonzalez0) - Fullstack Developper
+- [@Lenny](https://github.com/lenny-zanotelli) - Fullstack Developper
+- [@Thomas](https://github.com/Thomas-Lunardo) - Fullstack Developper
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
