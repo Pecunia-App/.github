@@ -104,7 +104,7 @@ A clear and consistent commit message format improves readability, history track
 ```git
 feat(auth): add JWT authentication middlewares
 fix(ui): resolve navbar rendering issue
-chore(git): add logs to .gitgnore
+build(angular): update angular17 to angular19
 docs(readme): update installation guide
 ```
 
