@@ -89,14 +89,14 @@ A clear and consistent commit message format improves readability, history track
 
 | Type | Usages |
 | :------: | :-----:|
-| **feat** | Introduces new feature |
-| **fix** | Fixes a bug |
-| **chore** | Maintenance or tooling updates |
-| **docs** | Documentation changes |
-| **test** | Adding or updating tests |
-| **refactor** | Code improvement without changing behavior |
-| **style** | Formatting changes (whitespace, linting) |
-| **perf** | Performance improvements |
+| **feat** | A new feature. Correlates with MINOR in SemVer |
+| **fix** | A bug fix. Correlates with PATCH in SemVer |
+| **docs** | Documentation only changes |
+| **test** | Adding missing or correcting existing tests |
+| **build** | Changes that affect the build system or external dependencies (example scope: pip, docker, npm)
+| **refactor** | A code change that neither fixes a bug nor adds a feature |
+| **style** | Changes that do not affect the meaning of th code (white-space, formatting, missing semi-colons etc.) |
+| **perf** | A code change that improves performance |
 | **ci** | CI/CD related updates |
 
 #### 📌 Examples
