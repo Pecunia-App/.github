@@ -30,7 +30,7 @@ Pecunia allows users to management EVERYTHING by manually entering all their tra
 
 This approach enables complete personalization and greater control over your personal finances.
 
-## 📓 Guidelines
+## 📓 Guidelines <a name="guidelines"></a>
 
 ### Git Branch Strategy
 
