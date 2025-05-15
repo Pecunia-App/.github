@@ -22,10 +22,10 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Pecunia is a budget management application designed to enable users to track and manager their personal finances in a simple and flexible way.
+Pecunia is a budget management application designed to enable users to track and manage their personal finances in a simple and flexible way.
 
 By enabling advanced customization of expenses categories. It aims to offer a tailor-made approach adapted for specific needs.
-Unlike traditional banking applications or budget app that require you to link your bank accounts,
+Unlike traditional banking applications or budget apps that require you to link your bank accounts,
 Pecunia allows users to management EVERYTHING by manually entering all their transactions.
 
 This approach enables complete personalization and greater control over your personal finances.
@@ -67,7 +67,7 @@ chore/update-dependencies
 
 - Create a branch : `git checkout -b feat/your-feature`
 - Push and open a pull request to dev
-- Merge or only after 2 approval review
+- Merge only after 2 approval review
 
 ##### 3. Proof of Concept (PoC) workflow
 
