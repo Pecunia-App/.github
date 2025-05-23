@@ -69,11 +69,9 @@ chore/update-dependencies
 - Push and open a pull request to dev
 - Merge only after 2 approval review
 
-##### 3. Proof of Concept (PoC) workflow
+##### Schema
 
-- Create a PoC branch : `git checkout -b poc/your-concept`
-- Test feasibility before integrating into `feature/` branches
-- if validated, merge into a feature branch or discard
+<img src="./schema_branching_strategy.png" />
 
 ### Commit Messages Conventions
 
