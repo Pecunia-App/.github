@@ -69,7 +69,7 @@ chore/update-dependencies
 - Push and open a pull request to dev
 - Merge only after 2 approval review
 
-##### Schema
+##### Branching strategy schema
 
 <img src="./schema_branching_strategy.png" />
 
