@@ -50,10 +50,10 @@ This approach enables complete personalization and greater control over your per
 #### 🔷 Examples
 
 ```git
-feat/user-authentication
-fix/navbar-alignment
-docs/project-guidelines
-chore/update-dependencies
+feat/<num-ticket-taiga>user-authentication
+fix/<num-ticket-taiga>navbar-alignment
+docs/<num-ticket-taiga>project-guidelines
+chore/<num-ticket-taiga>update-dependencies
 ```
 
 #### 🔄 Workflow
@@ -65,9 +65,9 @@ chore/update-dependencies
 
 ##### 2. Feature workflow
 
-- Create a branch : `git checkout -b feat/your-feature`
+- Create a branch : `git checkout -b feat/your-feature` from a `main` branch
 - Push and open a pull request to dev
-- Merge only after 2 approval review
+- Merge Rebase, if you can, only after 2 approval review
 
 ##### Branching strategy schema
 
